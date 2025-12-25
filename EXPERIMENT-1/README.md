@@ -65,5 +65,5 @@
 ## Output:
 
 ## CASE-1 (D>0)
-![Experiment-1b output](Quard-1.png)
+![Experiment-1b Output](Quard-1.png)
 
