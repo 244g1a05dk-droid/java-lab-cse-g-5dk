@@ -21,4 +21,4 @@
 }
 ```
 ## Output
-![Experiment-1 output](primitive.png)
+![Experiment-1 output](primitive-1.png)
