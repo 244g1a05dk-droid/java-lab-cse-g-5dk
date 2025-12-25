@@ -67,3 +67,7 @@
 ## CASE-1 (D>0)
 ![Experiment-1b Output](Quard1.png)
 
+## CASE-2 (D==0)
+![Experiment-1b Output](Quard2.png)
+
+
