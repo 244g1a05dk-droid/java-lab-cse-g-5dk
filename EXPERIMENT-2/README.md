@@ -28,3 +28,29 @@
 ```
 ## Output:
 ![Experiment 2a) Output](rect.png)
+## 2b) Title: Implement method overloading
+## Source Code:
+``` java
+ public class Sum{
+     int Sum(int a,int b){
+       return a+b;
+     }
+     int Sum(int a,int b,int c){
+       return a+b+c;
+     }
+     double Sum(double a,double b){
+       return a+b;
+     }
+   }
+ class Main{
+    public static void main(String[] args){
+      Sum S = new Sum();
+      System.out.println("Sum of the 2 integer: " +S.Sum(36,46));
+      System.out.println("Sum of the 3 integers: " +S.Sum(20,36,46));
+      System.out.println("SUm of the two real numbers: " +S.Sum(30.465,15.675));
+    }
+  }
+```
+## Output:
+![Experiment 2b) Output](sum.png)
+
