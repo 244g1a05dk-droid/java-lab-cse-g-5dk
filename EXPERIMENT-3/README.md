@@ -30,7 +30,7 @@ class Main{
 
 ```
 ## Output:
-![Exp-3a output]()
+![Exp-3a output](std.png)
 ## 3b) TItle: Binary Search:
 ## Source Code:
 ```
@@ -95,4 +95,4 @@ class Main {
 
 ```
 ## Output:
-![Exp-3b output]()
+![Exp-3b output](binarysearch.png)
