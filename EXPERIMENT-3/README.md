@@ -97,6 +97,8 @@ class Main {
 ## Output:
 ![Exp-3b output](binarysearch.png)
 ## 3c) TItle: Bubble Sortclass Bubblesort:
+## Source Code:
+```
 { 
       void Bubblesort(int arr[]) { 
       int n = arr.length; 
