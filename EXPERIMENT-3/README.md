@@ -138,5 +138,5 @@ class main {
     }
 ```
 ## Output:
-![Exp-3c output](bubble.png)
+![Exp-3c output](b1.png)
 
